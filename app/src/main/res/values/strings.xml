@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Nature Emoi</string>
 
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_collection_item">Collection</string>
+    <string name="bottom_add_plant_item">Ajouter</string>
+
     <!-- Page d'accueil -->
     <string name="home_page_title">A découvrir</string>
     <string name="home_page_last_plant_section">Dernières plantes</string>
@@ -39,5 +43,5 @@
 
     <!-- Plante customise -->
     <string name="item_plant_name">Nom de la plante</string>
-    <string name="item_plant_description">Nom de la plante</string>
+    <string name="item_plant_description">Description de la plante</string>
 </resources>

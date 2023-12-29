@@ -21,6 +21,6 @@
         android:layout_height="30dp"
         android:layout_margin="@dimen/default_margin"
         android:src="@drawable/ic_unstar"
-        android:tint="@color/green"/>
+        app:tint="@color/green"/>
 
 </androidx.cardview.widget.CardView>
